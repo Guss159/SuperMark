@@ -1,3 +1,3 @@
 # SuperMark
 Projecto 1000programadores JAVA
-Colaborador : Gabriela Suyo
+incompleto y lleno de bugs
